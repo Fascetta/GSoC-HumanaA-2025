@@ -128,6 +128,3 @@ Categories include:
 ## 🤝 Contributing
 
 Bug reports, feature requests, or pull requests are welcome. If you'd like to help extend this project, feel free to fork or open an issue.
-
----# Dance-Beyond-Music
-# Dance-Beyond-Music
