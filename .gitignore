@@ -1,0 +1,5 @@
+/.env
+/.pylintrc
+/.venv
+/.vscode
+/why_this_project.md

@@ -1,0 +1,32 @@
+{
+    "mariel_betternot_and_retrograde_100_160": [
+        "relaxed",
+        "walking"
+    ],
+    "mariel_betternot_and_retrograde_150_210": [
+        "relaxed",
+        "walking"
+    ],
+    "mariel_betternot_and_retrograde_200_260": [
+        "relaxed",
+        "walking"
+    ],
+    "mariel_betternot_and_retrograde_250_310": [
+        "turning",
+        "walking"
+    ],
+    "mariel_betternot_and_retrograde_300_360": [
+        "turning",
+        "walking"
+    ],
+    "mariel_betternot_and_retrograde_350_410": [
+        "walking"
+    ],
+    "mariel_betternot_and_retrograde_400_460": [
+        "slow",
+        "walking"
+    ],
+    "mariel_betternot_and_retrograde_450_510": [
+        "turning"
+    ]
+}
